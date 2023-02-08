@@ -1,1 +1,2 @@
-print("je m'appelle toto")
+nom = "toto"
+print("je m'appelle " + nom)
