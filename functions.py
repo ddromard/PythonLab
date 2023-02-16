@@ -1,2 +1,7 @@
 def hello():
-    return 30
+    msg = "Bonjour "
+    print (msg)
+    
+msg_att = input ("appuyer sur une touche")
+hello()
+
